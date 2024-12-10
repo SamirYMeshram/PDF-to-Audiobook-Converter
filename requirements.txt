@@ -1,0 +1,26 @@
+# GUI Library for building the user interface
+tkinter  # (No installation required; comes pre-installed with Python)
+
+# Library to extract text from PDF files
+pdfplumber==0.9.0  # Used to extract text directly from PDF files.
+
+# Library to convert PDF pages to images
+pdf2image==1.16.3  # Converts each page of a PDF to an image for OCR processing.
+
+# Library for optical character recognition (OCR)
+easyocr==1.7.0  # Extracts text from images for image-based PDFs.
+
+# Library for text-to-speech conversion
+pyttsx3==2.90  # Converts extracted text into speech and generates an audiobook (MP3).
+
+# Library to play audio files
+playsound==1.2.2  # Plays the generated audiobook from within the application.
+
+# Library for image processing
+Pillow==9.3.0  # Required by pdf2image to handle image file formats (e.g., JPG, PNG).
+
+# Library to process and manipulate text (used for punctuation adjustments)
+re  # (No installation required; part of Python standard library)
+
+# Library for array and matrix manipulation (used to convert images for OCR)
+numpy==1.26.0  # Used to convert images into a format that can be read by EasyOCR.
