@@ -187,6 +187,6 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 ## **👤 Author**  
 - **GitHub**: [SamirYMeshram](https://github.com/SamirYMeshram)  
-- **Email**: samirYmeshram@gmail.com 
+- **Email**: sameerYmeshram@gmail.com 
 
 ---
